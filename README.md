@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Mozzam</a></h1>
 <h3 align="center">A passionate Software developer from Mumbai India &#127470;&#127475</h3>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Finrise Softech</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Web App(Django-Nodejs)
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Docker, Microservices, kafka
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 💬 Ask me about **Django, Nodejs, Microservices and Kafka**
 
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **mozzam607@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
@@ -43,17 +44,3 @@ Mozzam</a></h1>
 
 </p>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
