@@ -9,8 +9,6 @@ Mozzam</a></h1>
 
 - 🌱 I’m currently Working on Web App(Django-Nodejs)
 
-- 🤝 I’m available for freelancing.
-
 - 🌱 I’m currently learning Docker, Microservices, kafka
 
 - 💬 Ask me about **Django, Nodejs, Microservices and Kafka**
