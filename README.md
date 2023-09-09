@@ -11,7 +11,7 @@ Mozzam</a></h1>
 
 - 🌱 I’m currently learning Docker, Microservices, kafka
 
-- 💬 Ask me about **Django, Nodejs, Microservices and Kafka**
+- 💬 Ask me about **Django, Microservices and Kafka**
 
 - 📫 How to reach me **mozzam607@gmail.com**
 
