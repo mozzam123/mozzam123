@@ -17,6 +17,12 @@ Mozzam</a></h1>
 
 - 📄 Know about my experiences <a href="https://github.com/mozzam123/mozzam123/blob/main/Mozzam%E2%80%99s%20Resume.pdf" target="blank">Resume</a>
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br><br>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=mozzam123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mozzam123&layout=compact&theme=dark&card_width=400)
+
+<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -31,4 +37,6 @@ Mozzam</a></h1>
       </div>
 
 </p>
+
+
 
