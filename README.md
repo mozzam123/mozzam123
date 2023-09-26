@@ -76,12 +76,12 @@
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/mozzam/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+<!--     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"> -->
   </a>
-  <a target="_blank" href="https://github.com/100rabhcsmc">
+  <a target="_blank" href="https://github.com/mozzam123">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
   </a>
-  <a target="_blank" href="https://instagram.com/100rabhch">
+  <a target="_blank" href="https://instagram.com/mozzam_inamdar">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
   </a>
 </p>
