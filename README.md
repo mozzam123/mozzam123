@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Docker, Microservices, and Kafka
 - 💬 Ask me about **Django, Node.js, Microservices, Redis, and Kafka**
 - 📫 How to reach me: [mozzam607@gmail.com](mailto:mozzam607@gmail.com)
-- 📄 Know more about my experiences in my [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam%E2%80%99s%20Resume.pdf)
+- 📄 Know more about my experiences in my [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam's%20Resume.pdf)
 
 <br/>
 
