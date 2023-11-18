@@ -1,22 +1,24 @@
+<!-- Header Section -->
 <h1 align="center">Hi there 👋, I'm Mozzam</h1>
+<h3 align="center">Passionate Software Developer from Mumbai, India</h3>
 
-<h3 align="center">A passionate Software Developer from Mumbai, India</h3>
-
+<!-- Introduction Section -->
 <p align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
 ### About Me
 
-- 🔭 I’m currently working at [Finrise Softech](https://phoenix.tech/griffyn/)
-- 🌱 I’m currently working on a Web App (Django-Node.js)
-- 🌱 I’m currently learning Docker, Microservices, and Kafka
+- 🔭 Working at [Finrise Softech](https://phoenix.tech/griffyn/)
+- 🌱 Currently working on a Web App (Django-Node.js)
+- 🌱 Learning Docker, Microservices, and Kafka
 - 💬 Ask me about **Django, Node.js, Microservices, Redis, and Kafka**
 - 📫 How to reach me: [mozzam607@gmail.com](mailto:mozzam607@gmail.com)
-- 📄 Know more about my experiences in my [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam's%20Resume.pdf)
+- 📄 [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam's%20Resume.pdf)
 
 <br/>
 
+<!-- Skills Section -->
 ### 🔨 Languages and Tools:
 
 <p align="left"> 
@@ -42,6 +44,7 @@
 
 <br/>
 
+<!-- Deployment Section -->
 ### Deploy ⚙
 
 <p align="left">
@@ -61,19 +64,20 @@
 
 ---
 
-
 <br/>
 
+<!-- GitHub Stats Section -->
 ![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mozzam123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Your Repository's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mozzam123&layout=compact&theme=dark&card_width=400)
 
 <br/>
 
+<!-- Connect with Me Section -->
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/mozzam/">
-  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
   <a target="_blank" href="https://github.com/mozzam123">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
