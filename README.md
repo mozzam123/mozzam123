@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi there 👋, I'm Mozzam</h1>
-<h3 align="center">Passionate Software Developer from Mumbai, India</h3>
+<h3 align="center">Passionate Software Engineer from Mumbai, India</h3>
 
 <!-- Introduction Section -->
 <p align="center">
