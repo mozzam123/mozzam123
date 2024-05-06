@@ -9,10 +9,9 @@
 
 ### About Me
 
-- 🔭 Working at [Finrise Softech](https://phoenix.tech/griffyn/)
-- 🌱 Currently working on a Web App (Django-Node.js)
-- 🌱 Learning Docker, Microservices, and Kafka
-- 💬 Ask me about **Django, Node.js, Microservices, Redis, and Kafka**
+- 🌱 Currently working on a NLP and AI.
+- 🌱 Learning Docker, Microservices, and Kafka.
+- 💬 Ask me about **Django, Node.js, Microservices, NLP, and AI**
 - 📫 How to reach me: [mozzam607@gmail.com](mailto:mozzam607@gmail.com)
 - 📄 [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam's%20Resume.pdf)
 
