@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center">Hi there 👋, I'm Mozzam</h1>
-<h3 align="center">Passionate Software Engineer from Mumbai, India</h3>
+<h1 align="center">Hi there 👋, I'm Mozzam Inamdar </h1>
+<h3 align="center">Passionate Software Engineer from Mumbai, India.</h3>
 
 <!-- Introduction Section -->
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 🌱 Currently working on a NLP and AI.
 - 🌱 Learning Docker, Microservices, and Kafka.
-- 💬 Ask me about **Django, Node.js, Microservices, NLP, and AI**
+- 💬 Ask me about **Django, Node.js, Microservices, NLP, and AI**.
 - 📫 How to reach me: [mozzam607@gmail.com](mailto:mozzam607@gmail.com)
 - 📄 [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam's%20Resume.pdf)
 
