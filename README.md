@@ -9,8 +9,8 @@
 
 ### About Me
 
-- 🌱 Currently working on a NLP and AI.
-- 🌱 Learning Docker, Microservices, and Kafka.
+- 🌱 Currently working on a NLP and ML.
+- 🌱 Learning Docker, Microservices, and ML.
 - 💬 Ask me about **Django, Node.js, Microservices, NLP, and AI**.
 - 📫 How to reach me: [mozzam607@gmail.com](mailto:mozzam607@gmail.com)
 - 📄 [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam's%20Resume.pdf)
