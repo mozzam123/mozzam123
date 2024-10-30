@@ -13,7 +13,7 @@
 - 🌱 Learning Docker, Microservices, and ML.
 - 💬 Ask me about **Django, Node.js, Microservices, NLP, and AI**.
 - 📫 How to reach me: [mozzam607@gmail.com](mailto:mozzam607@gmail.com)
-- 📄 [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam's%20Resume.pdf)
+- 📄 [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam_Resume%20.pdf)
 
 <br/>
 
