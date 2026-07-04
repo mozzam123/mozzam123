@@ -114,7 +114,7 @@ Experimenting with:
 - LinkedIn: https://www.linkedin.com/in/mozzam/
 - GitHub: https://github.com/mozzam123
 - Email: mozzam607@gmail.com
-- Resume: [View Resume](./Mozzam_Resume .pdf)
+- Resume: [View Resume](./Mozzam_Resume.pdf)
 
 ---
 
