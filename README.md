@@ -18,11 +18,10 @@ My current focus is on:
 - AI agents and multi-step workflows
 - LangChain & LangGraph orchestration
 - Prompt engineering & context engineering
-- AI automation systems
 - FastAPI backend architectures
 - LLM evaluation and reliability
 - RAG pipelines and vector search
-- Developer tooling powered by AI
+- LLM application development, model integration, and inference optimization
 
 I enjoy designing systems where LLMs move beyond simple chat interfaces and become part of structured, production-style workflows.
 
