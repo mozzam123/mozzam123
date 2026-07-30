@@ -71,36 +71,9 @@ I enjoy designing systems where LLMs move beyond simple chat interfaces and beco
 
 ---
 
-## 🛠️ Current Projects
-
-### 🔹 AI-Powered LinkedIn Agent
-
-Building a workflow-driven AI system that:
-- generates technical LinkedIn content
-- evaluates content quality
-- rewrites and humanizes posts
-- automates publishing workflows
-- supports multi-stage AI pipelines
-
-**Tech Stack:**  
-LangGraph • LangChain • FastAPI • SQLite • Playwright • Structured Prompting
-
----
-
-### 🔹 LangChain-Powered RAG Systems
-
-Experimenting with:
-- vector databases
-- embeddings
-- retrieval pipelines
-- conversational memory
-- AI workflow orchestration
-
----
-
 ## 🌱 Currently Exploring
 
-- Context engineering
+- Context and Harness engineering
 - Multi-agent architectures
 - AI reliability & observability
 - Distributed AI workflows
