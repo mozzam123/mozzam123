@@ -89,7 +89,3 @@ I enjoy designing systems where LLMs move beyond simple chat interfaces and beco
 - Resume: [View Resume](./Mozzam_Resume.pdf)
 
 ---
-
-<h3 align="center">
-Building AI systems that combine structured workflows with real-world engineering.
-</h3>
