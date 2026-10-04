@@ -14,8 +14,6 @@ Mumbai, India
 
 ---
 
-## 🚀 About Me
-
 I build AI-native applications, workflow-driven systems, and scalable backend platforms.
 
 My current focus is on:
